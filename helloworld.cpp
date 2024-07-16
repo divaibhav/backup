@@ -31,3 +31,14 @@ int main(){
 // file is a.exe
 // syntax to run .exe or output file
 // ./outputfilename
+
+// attendance
+/*
+1. Harsha
+2. Akansha
+3. Vikas
+4. Mayank
+5. Himanshu
+6. Akash
+7. Raje
+*/
